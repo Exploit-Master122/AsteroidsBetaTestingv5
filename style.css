@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #000;
+  overflow: hidden;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #000;
+}
+.overlay {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  color: #0f0;
+  font-family: monospace;
+  font-size: 14px;
+}
+button {
+  display: block;
+  margin-top: 5px;
+}
